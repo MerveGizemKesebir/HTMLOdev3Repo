@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Dancing+Script:wght@600;700&family=Expletus+Sans:wght@600&family=Great+Vibes&family=Indie+Flower&family=Lobster&family=Lobster+Two:ital@1&family=Sansita+Swashed:wght@300&family=Source+Code+Pro:ital,wght@1,200&display=swap');
+
+body{
+    background-color: rgb(7, 51, 7);
+}
+
+
+h1{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 45px ;
+    font-family:'Indie Flower', cursive;
+    color: white;
+}
+
+h2{
+    font-size: 45px ;
+    font-family:'Indie Flower', cursive;
+    margin-left: 500px;
+
+}
+
+.explanation{
+    margin: 35px;
+    font-size: 20px;
+    color: white;
+}
+
+.bar ul{
+    margin: 35px;
+    padding: 10px;
+    width: auto;
+    height: 50px;
+    color: white;
+    background-color: rgb(69, 29, 29);
+}
+
+.bar li{
+    list-style: none;
+    display: inline;
+    text-align: center;
+    padding: 210px;
+    margin-left: 50px;
+    font-size: larger;
+       
+}
+
+i{
+    padding-right: 10px;
+}
+
+.kapsayici{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: white;
+    margin: 100px;
+    
+}
+
+.malzemeler li{
+    list-style: none;
+    padding-left: 220px;
+    font-size: larger;
+}
+
+pre{
+    padding-left: 129px;
+    font-size: larger;
+}
+
+img{
+    width: 640px;
+}
